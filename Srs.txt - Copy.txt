@@ -1,0 +1,31 @@
+EMPLOYEE RECRUITMENT SYSTEM 
+->
+1.Introduction
+
+1.1 Parpose : Parpose of this document is to provide information for about the requirement of a EMPLOYEE RECRUITMENT SYSTEM . 
+in the form of functional and non functional requirments .
+
+1.2 Scop : The web app is going to provide a solution to jobseeker  to see reduirements in orgenizations and the reduired skills for thr job .jobseeker can upload the CV for job and apply through this webapp. This web app is also useble for organizations to post their staffing requirements.
+
+2. Functional requirements : 
+2.1 Registration : -Jobseeker can register themself the email or phone number and fill their qualifications and other required details and create their profile .
+		   -Orgenizations also can register them self for make their recrutment process easy .
+
+2.2 Login :- jobseeker can login to the portal with the help of email/phone number and password . 
+           - a forgot password option shpould be provided in case user is unable to login with password and a facility to reset it with the email or OTP on mobile should be provided.
+
+2.3 Edit/Update : User should be able to Edit and update their profie afrer login .
+
+2.4 Job list : A list of requirement should be shown according to the qulification of the user.
+
+2.5 Filter : User should be able to apply a fliter on the list to see only specific job openning.
+
+2.6 CV upload : user can apply a CV on the profile . and also able to remove it or change it.
+
+2.7 Apply : User can apply for the job that suitable for his/her.
+
+2.8 Requirment upload : A register orgenization can upload the staffing requirments and and can see the profiles of the intrested candidates. Shorlist them and contect with the help of email or phone . 
+    		
+
+
+
