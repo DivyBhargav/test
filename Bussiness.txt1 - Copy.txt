@@ -1,0 +1,6 @@
+Bussiness Entity and Operation :
+
+1.User(Jobseeker) -it provide the apportunity to the jobseeker to see all jobs suitable for his/her at one plateform .
+		the portal provide the facility to apply for the disareble job .
+   
+2. Orgeniztion  - it provide the Easy process of invite applications and shortlist them as per requirement criteria.
